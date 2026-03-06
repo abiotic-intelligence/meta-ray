@@ -47,8 +47,6 @@ Does NOT belong here:
 
 ---
 
-## What should live here (as you implement it)
-
 ### Android discovery helpers
 Android-friendly wrapper around discovery mechanisms (mDNS/DNS-SD or fallback).
 Goal: produce `EmitterConfig` objects for `MetaRayReceiver.connect()`.
@@ -136,8 +134,3 @@ $env:JAVA_HOME='C:\Program Files\Java\jdk-17'
 $env:Path='C:\Program Files\Java\jdk-17\bin;C:\Windows\System32;C:\Windows'
 .\gradlew.bat :android:testDebugUnitTest --no-daemon
 ```
-
-
-## Licensing
-Meta-ray is free for non-commercial use.
-Commercial use requires a separate license agreement.

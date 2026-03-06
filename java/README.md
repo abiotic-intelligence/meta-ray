@@ -1,4 +1,4 @@
-# Meta-ray Android/Java SDK
+# Meta-ray Android/JVM SDK
 
 ## Repository Modules
 
