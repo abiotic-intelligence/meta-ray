@@ -32,9 +32,8 @@ Commercial
 license to:
 
 a) Use the Software in production environments
-b) Modify the Software for internal purposes
-c) Distribute the Software solely as embedded within Licensee’s applications or devices
-d) Deploy the Software as part of SaaS, streaming, IoT, or device platforms
+b) Distribute the Software solely as embedded within Licensee’s applications or devices
+c) Deploy the Software as part of SaaS, streaming, IoT, or device platforms
 
 No ownership rights are transferred under this License.
 
