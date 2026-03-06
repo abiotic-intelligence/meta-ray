@@ -35,7 +35,7 @@ c) Deploy the Software as part of SaaS, streaming, IoT, or device platforms
 
 No ownership rights are transferred under this License.
 
-3. SaaS and Streaming Platform Rights
+3. AI, SaaS and Streaming Platform Rights
 Licensee operating:
 
 Subscription streaming platforms
@@ -46,6 +46,7 @@ Terrestrial, cable, or satellite broadcasters
 Hybrid broadcast-broadband systems
 Interactive television middleware platforms
 Companion or second-screen applications
+AI assistants, agents and chatbots
 
 may integrate and deploy the Software in connection with such services, including:
 
