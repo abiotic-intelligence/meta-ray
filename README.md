@@ -11,7 +11,8 @@ Meta-ray uses two complementary channels:
 - `MEC` (Multicast Event Channel, emitter -> many): low-latency encrypted event broadcast.
 - `UBCC` (Unicast Bidirectional Control Channel, receiver <-> emitter): encrypted request/response for `auth`, `pull`, and actions/assets.
 
-Design rule: multicast is the hint lane, unicast pull is authoritative.
+Design rule:
+Multicast fires events “to whom it may concern”; unicast pull is a private conversation.
 
 ## Philosophy
 
