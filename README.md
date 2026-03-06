@@ -12,7 +12,7 @@ Meta-ray uses two complementary channels:
 - `UBCC` (Unicast Bidirectional Control Channel, receiver <-> emitter): encrypted request/response for `auth`, `pull`, and actions/assets.
 
 Design rule:
-Multicast fires events “to whom it may concern”; unicast pull is a private conversation.
+Multicast fires events “to whom it may concern”; unicast `pull` is a private conversation.
 
 ## Philosophy
 
