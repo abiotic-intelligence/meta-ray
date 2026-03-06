@@ -10,37 +10,23 @@ By executing a commercial agreement referencing this License, or by using the So
 1. Definitions
 
 “Software” means the Meta-ray SDK, including metaray-core, metaray-android, metaray-jvm, metaray-testkit, and related documentation.
-
 “Protocol Specification” means the published Meta-ray protocol documentation.
-
 “Commercial Use” means any use in connection with:
-
 Revenue-generating products or services
-
 Subscription platforms
-
 Advertising-supported services
-
 Embedded device firmware
-
 OEM distribution
-
 SaaS platforms
-
 Monetized applications
-
 “Certified Implementation” means an implementation validated under the Meta-ray certification program.
 
 2. Grant of License
 
 Subject to payment of applicable fees and compliance with this License, Licensor grants Licensee a:
-
 Non-exclusive
-
 Non-transferable
-
 Worldwide
-
 Commercial
 
 license to:
