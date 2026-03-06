@@ -1,4 +1,4 @@
-# Meta-ray Java SDK
+# Meta-ray
 
 Meta-ray is a local-first protocol and SDK for second-screen and nearby device interactions on the same Wi-Fi network.
 
