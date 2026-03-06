@@ -8,7 +8,6 @@ By executing a commercial agreement referencing this License, or by using the So
 
 
 1. Definitions
-
 “Software” means the Meta-ray SDK, including metaray-core, metaray-android, metaray-jvm, metaray-testkit, and related documentation.
 “Protocol Specification” means the published Meta-ray protocol documentation.
 “Commercial Use” means any use in connection with:
@@ -22,7 +21,6 @@ Monetized applications
 “Certified Implementation” means an implementation validated under the Meta-ray certification program.
 
 2. Grant of License
-
 Subject to payment of applicable fees and compliance with this License, Licensor grants Licensee a:
 Non-exclusive
 Non-transferable
@@ -38,7 +36,6 @@ c) Deploy the Software as part of SaaS, streaming, IoT, or device platforms
 No ownership rights are transferred under this License.
 
 3. SaaS and Streaming Platform Rights
-
 Licensee operating:
 
 Subscription streaming platforms
@@ -60,7 +57,6 @@ Broadband backchannel communications
 Deployment rights apply regardless of whether content is delivered via IP networks, RF broadcast, satellite transmission, cable infrastructure, or hybrid distribution architectures.
 
 4. OEM and Device Manufacturer Rights
-
 For Licensees embedding Meta-ray in hardware or firmware:
 
 The License permits:
@@ -72,7 +68,6 @@ Device-based royalty, volume tiers, or flat enterprise terms shall be defined in
 Licensee shall ensure reasonable security practices and compliance with encryption regulations in applicable jurisdictions.
 
 5. Protocol Freedom
-
 Licensee may independently implement the Meta-ray Protocol Specification without using the Software.
 
 However:
@@ -83,7 +78,6 @@ Participation in official interoperability programs
 require separate certification approval.
 
 6. Restrictions
-
 Licensee shall not:
 
 a) Redistribute the SDK as a standalone developer toolkit
@@ -93,7 +87,6 @@ d) Reverse engineer proprietary components provided in binary form
 e) Use the Software in violation of applicable law
 
 7. Certification and Trademark
-
 The Meta-ray name, logo, and certification marks are trademarks of Abiotic Intelligence.
 Use of such marks requires:
 Active commercial license
@@ -101,36 +94,29 @@ Successful interoperability validation (if required)
 Compliance with branding guidelines
 
 8. Support and Updates
-
 Support, maintenance, security patches, and long-term support (LTS) terms are governed by a separate Support Agreement.
 Absent such agreement, Software is provided without guaranteed support.
 
 9. Confidential Components
-
 Certain enterprise or premium modules may be provided under additional confidentiality terms.
 
 10. Warranty Disclaimer
-
 THE SOFTWARE IS PROVIDED “AS IS” EXCEPT AS EXPRESSLY PROVIDED IN A SEPARATE WRITTEN AGREEMENT.
 Licensor disclaims all implied warranties including merchantability and fitness for a particular purpose.
 
 11. Limitation of Liability
-
 To the maximum extent permitted by law:
 Licensor shall not be liable for indirect, incidental, special, consequential, or punitive damages.
 Total liability shall not exceed the fees paid under the applicable commercial agreement in the preceding twelve (12) months.
 
 12. Termination
-
 This License terminates if Licensee breaches its terms and fails to cure within thirty (30) days of notice.
 Upon termination, Licensee must cease distribution of new products incorporating the Software.
 
 13. Governing Law
-
 This License shall be governed by the laws of [Jurisdiction].
 
 14. Entire Agreement
-
 This License, together with any executed Commercial Agreement, constitutes the entire agreement between the parties.
 
 END OF LICENSE
