@@ -44,5 +44,10 @@ Receiver responsibilities:
 
 ## Licensing
 
-Meta-ray is free for non-commercial use.  
-Commercial use requires a separate license agreement.
+Meta-ray is available under two licenses:
+
+• Meta-ray Community License – free for non-commercial use  
+• Meta-ray Commercial License – required for commercial deployments
+
+For commercial licensing inquiries:
+sales@abioticai.com
