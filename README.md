@@ -22,7 +22,7 @@ The message that carries contextual metadata associated with on-screen content o
 
 ### Context Frame
 
-`ContextFrame` is the message that carries contextual metadata associated with on-screen content or emitted by an IoT device over wireless LAN.
+`ContextFrame` is the message that carries contextual metadata associated with on-screen content or emitted by an IoT device over wireless LAN.  
 `ContextFrame.Std` uses required `contextId`, required `isEvent`, and optional `eventId`.
 
 ### Emitter
