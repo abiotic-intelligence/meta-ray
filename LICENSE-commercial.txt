@@ -31,7 +31,7 @@ license to:
 
 a) Use the Software in production environments
 b) Distribute the Software solely as embedded within Licensee’s applications or devices
-c) Deploy the Software as part of SaaS, streaming, IoT, or device platforms
+c) Deploy the Software as part of SaaS, AI applications, streaming, IoT, or device platforms
 
 No ownership rights are transferred under this License.
 
