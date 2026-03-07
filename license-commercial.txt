@@ -46,7 +46,7 @@ Terrestrial, cable, or satellite broadcasters
 Hybrid broadcast-broadband systems
 Interactive television middleware platforms
 Companion or second-screen applications
-AI assistants, agents and chatbots
+AI-powered applications, assistants, agents, or intelligent systems
 
 may integrate and deploy the Software in connection with such services, including:
 
