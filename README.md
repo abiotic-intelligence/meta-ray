@@ -1,7 +1,5 @@
 # Meta-ray
 
-Meta-ray is a local-first protocol and SDK for second-screen and nearby device interactions on the same Wi-Fi network.
-
 ## Protocol Overview
 
 Meta-ray is a local Wi-Fi multicast context protocol that lets TVs and IoT devices broadcast metadata to many nearby mobile devices, enabling second-screen experiences, commerce interactions, and AI assistant control - while providing an encrypted unicast backchannel for interfacing, personalization, and acknowledgements.
@@ -12,7 +10,7 @@ Meta-ray uses two complementary channels:
 - `UBCC` (Unicast Bidirectional Control Channel, receiver <-> emitter): encrypted request/response for `auth`, `pull`, and actions/assets.
 
 Design rule:
-Multicast fires events “to whom it may concern”; unicast `pull` is a private conversation.
+Multicast fires events “to whom it may concern”; unicast `pull` is a private conversation; unicast `action` is for interfacing.
 
 ## Philosophy
 

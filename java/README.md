@@ -146,6 +146,45 @@ emitter.pushEvent(new ContextFrame(
 ));
 ```
 
+### 4) `action` (receiver -> emitter over control channel)
+
+#### Register an action handler on the emitter:
+
+```java
+import core.model.ActionRequest;
+import core.model.ActionResponse;
+
+emitter.onAction(req -> {
+  if ("toggle-light".equals(req.actionId)) {
+    Object room = req.params.get("room");
+    iotController.toggleLight(String.valueOf(room));
+    return;
+  }
+  throw new IllegalArgumentException("Unsupported action: " + req.actionId);
+});
+```
+
+#### Send an action from the receiver:
+
+```java
+import core.model.ActionRequest;
+import core.model.ActionResponse;
+import java.util.Map;
+
+ActionResponse response = receiver.sendAction(
+    new ActionRequest(
+        "toggle-light",
+        "idem-toggle-light-001",
+        Map.of("room", "kitchen", "state", "toggle"),
+        null
+    )
+);
+
+if (response.status == ActionResponse.Status.OK) {
+  // action accepted by emitter
+}
+```
+
 ## InMemoryContextCache Usage
 
 Use cache helpers to keep `ContextFrame` lists keyed by `contextId`.
@@ -318,5 +357,32 @@ LanMetaRayReceiver receiver = new LanMetaRayReceiver(
     new InstallScopedReceiverIdentityProvider("netflix"),
     new WifiMulticastLockManager(context, "metaray-android-multicast"),
     EmitterConfig -> true
+);
+```
+
+Android action example:
+
+```java
+import core.model.ActionRequest;
+import core.model.ActionResponse;
+import java.util.Map;
+
+emitter.onAction(req -> {
+  if ("volume-set".equals(req.actionId)) {
+    Object rawLevel = req.params.get("level");
+    int level = ((Number) rawLevel).intValue();
+    player.setVolume(level);
+    return;
+  }
+  throw new IllegalArgumentException("Unsupported action: " + req.actionId);
+});
+
+ActionResponse response = receiver.sendAction(
+    new ActionRequest(
+        "volume-set",
+        "idem-volume-001",
+        Map.of("level", 15),
+        null
+    )
 );
 ```
