@@ -1,4 +1,4 @@
-**Meta-ray Community License v1.0**
+Meta-ray Community License v1.0
 
 Copyright (c) 2026 Abiotic Intelligence
 
@@ -6,13 +6,11 @@ This Meta-ray Community License v1.0 ("License") governs the use of the Meta-ray
 
 By downloading, accessing, or using the Software, you agree to the terms of this License.
 
----
-
-## 1. Definitions
-**Software** means the Meta-ray SDK, including but not limited to metaray-core, metaray-android, metaray-jvm, metaray-testkit, and associated documentation.
-**Protocol Specification** means the published Meta-ray protocol documentation describing message formats, transport behavior, and interoperability requirements.
-**Non-Commercial Use** means use that does not involve direct or indirect commercial advantage or monetary compensation.
-**Commercial Use** means any use in connection with revenue-generating activities, including but not limited to:
+1. Definitions
+"Software" means the Meta-ray SDK, including but not limited to metaray-core, metaray-android, metaray-jvm, metaray-testkit, and associated documentation.
+"Protocol Specification" means the published Meta-ray protocol documentation describing message formats, transport behavior, and interoperability requirements.
+"Non-Commercial Use" means use that does not involve direct or indirect commercial advantage or monetary compensation.
+"Commercial Use" means any use in connection with revenue-generating activities, including but not limited to:
 
 * SaaS or cloud services
 * Subscription platforms
@@ -22,17 +20,15 @@ By downloading, accessing, or using the Software, you agree to the terms of this
 * Embedded device firmware
 * OEM distribution
 * Paid mobile or desktop applications
-* Commercial AI services or assistants
+* Commercial AI services, assistants, agents, or chatbots
 
----
-
-## 2. License Grant
+2. License Grant
 Subject to the terms of this License, Abiotic Intelligence grants you a:
 
-* Non-exclusive
-* Non-transferable
-* Worldwide
-* Royalty-free
+Non-exclusive
+Non-transferable
+Worldwide
+Royalty-free
 
 license to:
 
@@ -41,9 +37,7 @@ b) Modify the Software for internal non-commercial use
 c) Use the Software in open-source or academic projects that are not commercially deployed
 d) Experiment with and implement the Meta-ray Protocol Specification
 
----
-
-## 3. Distribution
+3. Distribution
 You may distribute the Software or modified versions only if:
 
 * The distribution remains free of charge
@@ -52,51 +46,36 @@ You may distribute the Software or modified versions only if:
 
 Redistribution must clearly identify any modifications made.
 
----
+4. Commercial Use Restriction
+Commercial Use of the Software is not permitted under this License.
+Organizations or individuals wishing to use the Software in connection with commercial products, services, or device platforms must obtain a Meta-ray Commercial License from Abiotic Intelligence.
 
-## 4. Commercial Use Restriction
-Commercial Use of the Software is **not permitted** under this License.
-Organizations or individuals wishing to use the Software in connection with commercial products, services, or device platforms must obtain a **Meta-ray Commercial License** from Abiotic Intelligence.
-
----
-
-## 5. Protocol Implementation
+5. Protocol Implementation
 Nothing in this License prevents you from independently implementing the Meta-ray Protocol Specification without using the Software.
-However, use of the **Meta-ray name, logo, or certification marks** requires compliance with the Meta-ray trademark and certification policies.
+However, use of the Meta-ray name, logo, or certification marks requires compliance with the Meta-ray trademark and certification policies.
 
----
-
-## 6. Trademarks
-“Meta-ray” and associated logos are trademarks of Abiotic Intelligence.
+6. Trademarks
+"Meta-ray" and associated logos are trademarks of Abiotic Intelligence.
 This License does not grant permission to use these trademarks except for descriptive reference to the protocol.
-Claims such as **“Meta-ray Certified”**, **“Official Meta-ray Implementation”**, or similar statements require authorization.
+Claims such as "Meta-ray Certified", "Official Meta-ray Implementation", or similar statements require authorization.
 
----
-
-## 7. Contributions
+7. Contributions
 Contributions submitted to the Meta-ray project may be incorporated into the Software and licensed under the same licensing framework used by the project.
 
----
+8. Warranty Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
 
-## 8. Warranty Disclaimer
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
-
----
-
-## 9. Limitation of Liability
+9. Limitation of Liability
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, ABIOTIC INTELLIGENCE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM USE OF THE SOFTWARE.
 
----
-
-## 10. Termination
+10. Termination
 This License automatically terminates if you violate any of its terms.
 Upon termination, you must cease all use and distribution of the Software.
 
----
-
-## 11. Governing Law
-This License shall be governed by and construed in accordance with the laws of the Republic of Bulgaria. Any disputes arising out of or relating to this License shall be subject to the exclusive jurisdiction of the courts located in Sofia, Bulgaria.
-
----
+11. Governing Law
+This License shall be governed by and construed in accordance with the laws of the Republic of Bulgaria and applicable European Union law.
+Any dispute arising out of or in connection with this License shall be subject to the exclusive jurisdiction of the competent courts located in Sofia, Bulgaria.
 
 END OF LICENSE
+
+---
