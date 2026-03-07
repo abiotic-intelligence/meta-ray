@@ -120,7 +120,8 @@ This License terminates if Licensee breaches its terms and fails to cure within 
 Upon termination, Licensee must cease distribution of new products incorporating the Software.
 
 13. Governing Law
-This License shall be governed by the laws of [Jurisdiction].
+This License shall be governed by and construed in accordance with the laws of the Republic of Bulgaria and applicable European Union law.
+Any dispute arising out of or in connection with this License shall be subject to the exclusive jurisdiction of the competent courts located in Sofia, Bulgaria.
 
 14. Entire Agreement
 This License, together with any executed Commercial Agreement, constitutes the entire agreement between the parties.
