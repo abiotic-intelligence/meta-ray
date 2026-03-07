@@ -16,10 +16,6 @@ Multicast fires events “to whom it may concern”; unicast `pull` is a private
 
 ## Philosophy
 
-### Meta-ray message:
-
-The message that carries contextual metadata associated with on-screen content or emitted by an IoT device over wireless LAN.
-
 ### Context Frame
 
 `ContextFrame` is the message that carries contextual metadata associated with on-screen content or emitted by an IoT device over wireless LAN.  
