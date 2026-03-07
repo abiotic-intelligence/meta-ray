@@ -1,4 +1,4 @@
-# Meta-ray
+# Meta-ray (in development)
 
 ## Protocol Overview
 
