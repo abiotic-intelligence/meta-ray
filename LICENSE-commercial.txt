@@ -11,21 +11,24 @@ By executing a commercial agreement referencing this License, or by using the So
 “Software” means the Meta-ray SDK, including metaray-core, metaray-android, metaray-jvm, metaray-testkit, and related documentation.
 “Protocol Specification” means the published Meta-ray protocol documentation.
 “Commercial Use” means any use in connection with:
-Revenue-generating products or services
-Subscription platforms
-Advertising-supported services
-Embedded device firmware
-OEM distribution
-SaaS platforms
-Monetized applications
+
+* Revenue-generating products or services
+* Subscription platforms
+* Advertising-supported services
+* Embedded device firmware
+* OEM distribution
+* SaaS platforms
+* Monetized applications
+
 “Certified Implementation” means an implementation validated under the Meta-ray certification program.
 
 2. Grant of License
 Subject to payment of applicable fees and compliance with this License, Licensor grants Licensee a:
-Non-exclusive
-Non-transferable
-Worldwide
-Commercial
+
+* Non-exclusive
+* Non-transferable
+* Worldwide
+* Commercial
 
 license to:
 
@@ -38,34 +41,35 @@ No ownership rights are transferred under this License.
 3. AI, SaaS and Streaming Platform Rights
 Licensee operating:
 
-Subscription streaming platforms
-Advertising-supported streaming platforms
-Transactional or on-demand services
-Linear broadcast networks
-Terrestrial, cable, or satellite broadcasters
-Hybrid broadcast-broadband systems
-Interactive television middleware platforms
-Companion or second-screen applications
-AI-powered applications, assistants, agents, or intelligent systems
+* Subscription streaming platforms
+* Advertising-supported streaming platforms
+* Transactional or on-demand services
+* Linear broadcast networks
+* Terrestrial, cable, or satellite broadcasters
+* Hybrid broadcast-broadband systems
+* Interactive television middleware platforms
+* Companion or second-screen applications
+* AI-powered applications, assistants, agents, or intelligent systems
 
 may integrate and deploy the Software in connection with such services, including:
 
-Real-time synchronization with broadcast content
-Interactive overlays and second-screen experiences
-Targeted advertising and metadata delivery
-Companion mobile device synchronization
-Broadband backchannel communications
-Deployment rights apply regardless of whether content is delivered via IP networks, RF broadcast, satellite transmission, cable infrastructure, or hybrid distribution architectures.
+* Real-time synchronization with broadcast content
+* Interactive overlays and second-screen experiences
+* Targeted advertising and metadata delivery
+* Companion mobile device synchronization
+* Broadband backchannel communications
+* Deployment rights apply regardless of whether content is delivered via IP networks, RF broadcast, satellite transmission, cable infrastructure, or hybrid distribution architectures.
 
 4. OEM and Device Manufacturer Rights
 For Licensees embedding Meta-ray in hardware or firmware:
 
 The License permits:
 
-Integration into device firmware
-Distribution in consumer electronics
-Pre-installation on devices
-Device-based royalty, volume tiers, or flat enterprise terms shall be defined in a separate Commercial Agreement.
+* Integration into device firmware
+* Distribution in consumer electronics
+* Pre-installation on devices
+* Device-based royalty, volume tiers, or flat enterprise terms shall be defined in a separate Commercial Agreement.
+
 Licensee shall ensure reasonable security practices and compliance with encryption regulations in applicable jurisdictions.
 
 5. Protocol Freedom
@@ -90,9 +94,10 @@ e) Use the Software in violation of applicable law
 7. Certification and Trademark
 The Meta-ray name, logo, and certification marks are trademarks of Abiotic Intelligence.
 Use of such marks requires:
-Active commercial license
-Successful interoperability validation (if required)
-Compliance with branding guidelines
+
+* Active commercial license
+* Successful interoperability validation (if required)
+* Compliance with branding guidelines
 
 8. Support and Updates
 Support, maintenance, security patches, and long-term support (LTS) terms are governed by a separate Support Agreement.
