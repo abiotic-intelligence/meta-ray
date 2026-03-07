@@ -16,9 +16,13 @@ Multicast fires events “to whom it may concern”; unicast `pull` is a private
 
 ## Philosophy
 
+### Meta-ray message:
+
+The message that carries contextual metadata associated with on-screen content or emitted by an IoT device over wireless LAN.
+
 ### Context Frame
 
-`ContextFrame` is the one event/state payload type used across push and pull.
+`ContextFrame` is the message that carries contextual metadata associated with on-screen content or emitted by an IoT device over wireless LAN.
 `ContextFrame.Std` uses required `contextId`, required `isEvent`, and optional `eventId`.
 
 ### Emitter
